@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "山田 知明",
+    "email": "tyamada@meiji.ac.jp",
+    "phone": "+81-3-3296-2274",
+    "website": "https://tomoakiyamada.github.io",
+    "summary": "現職：明治大学 商学部 教授",
+    "location": {
+      "address": "1-1 Kanda Surugadai, Chiyoda-ku",
+      "postalCode": "101-8301",
+      "city": "東京都千代田区神田駿河台1-1",
+      "countryCode": "Japan"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=GrNZweQAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0000-0002-0171-4094"
+      },
+      {
+        "network": "GitHub",
+        "username": "TomoakiYamada",
+        "url": "https://github.com/TomoakiYamada"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "明治大学",
+      "position": "専任教授",
+      "department": "商学部",
+      "website": "https://www.meiji.ac.jp/",
+      "startDate": "2014年4月",
+      "endDate": "現在に至る"
+    },
+    {
+      "company": "Japanese Economic Review",
+      "position": "Co-editor",
+      "startDate": "2022年6月",
+      "endDate": "Present"
+    },
+    {
+      "company": "Economic and Social Research Institute, Cabinet Office",
+      "position": "Visiting Senior Research Fellow",
+      "startDate": "April 2022",
+      "endDate": "Present"
+    },
+    {
+      "company": "CREPE, University of Tokyo",
+      "position": "Visiting Researcher",
+      "startDate": "August 2022",
+      "endDate": "Present"
+    },
+    {
+      "company": "Queen Mary University of London",
+      "position": "Visiting Researcher",
+      "startDate": "September 2020",
+      "endDate": "March 2021"
+    },
+    {
+      "company": "University College London",
+      "position": "Visiting Researcher",
+      "startDate": "April 2015",
+      "endDate": "March 2016"
+    },
+    {
+      "company": "Meiji University",
+      "position": "Associate Professor",
+      "startDate": "April 2009",
+      "endDate": "March 2014"
+    },
+    {
+      "company": "Rissho University",
+      "position": "Assistant Professor",
+      "startDate": "April 2006",
+      "endDate": "March 2009"
+    }
+  ],
+  "education": [
+    {
+      "institution": "一橋大学大学院 経済学研究科",
+      "area": "博士（経済学）",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2005",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Hitotsubashi University",
+      "area": "M.S. in Economics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2002"
+    },
+    {
+      "institution": "Rikkyo University",
+      "area": "B.S. in Economics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2000"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "teaching": [
+    {
+      "course": "経済政策論",
+      "institution": "明治大学 商学部",
+      "date": "2025",
+      "description": ""
+    },
+    {
+      "course": "Introductory Macroeconomics",
+      "institution": "School of Commerce, Meiji University",
+      "date": "2025",
+      "description": ""
+    }
+  ]
+}
