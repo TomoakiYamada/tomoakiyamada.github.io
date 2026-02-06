@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-1. Imrohoroglu, Selahattin and Tomoaki Yamada (2026): Alternative Population Projections and Fiscal Sustainability in the U.S. and Japan, work in progress.
+1. Imrohoroglu, Selahattin and Tomoaki Yamada (2026): Alternative Population Projections and Fiscal Sustainability in the U.S. and Japan, Work in Progress.
 
 1. Kitao, Sagiri and Tomoaki Yamada (2026): Survey of Demographics, Family and
-Fiscal Sustainability in Japan: Macroeconomic Approaches, coming soon.
+Fiscal Sustainability in Japan: Macroeconomic Approaches, Coming Soon.
 
 1. Kitao, Sagiri, Michio Suzuki and Tomoaki Yamada (2025): [Nonlinear Earnings Dynamics and Inequality over the Life Cycle: Evidence from Japanese Municipal Tax Records](https://www.rieti.go.jp/en/publications/summary/25080016.html), RIETI Discussion Paper Series, 25-E-081.
 [🔗 RIETI DP](https://www.rieti.go.jp/jp/publications/dp/25e081.pdf), [🔗 CREPE DP](https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP174.pdf), [🔗 TUPD DP](https://tohoku.repo.nii.ac.jp/records/2006309)
