@@ -1,25 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-06T00:54:40+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tomoaki Yamada</title><subtitle>Tomoaki Yamada&apos;s academic portfolio</subtitle><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><entry><title type="html">HPを更新</title><link href="http://localhost:4000/posts/2026/01/blog-post-32/" rel="alternate" type="text/html" title="HPを更新" /><published>2026-01-07T00:00:00+00:00</published><updated>2026-01-07T00:00:00+00:00</updated><id>http://localhost:4000/posts/2026/01/blog-post-32</id><content type="html" xml:base="http://localhost:4000/posts/2026/01/blog-post-32/"><![CDATA[<h2 id="hpを更新">HPを更新</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://tomoakiyamada.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tomoakiyamada.github.io/" rel="alternate" type="text/html" /><updated>2026-02-27T07:32:15+00:00</updated><id>https://tomoakiyamada.github.io/feed.xml</id><title type="html">Tomoaki Yamada</title><subtitle>Tomoaki Yamada&apos;s academic portfolio</subtitle><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><entry><title type="html">BS-TBSの取材を受けました</title><link href="https://tomoakiyamada.github.io/posts/2026/02/blog-post-33/" rel="alternate" type="text/html" title="BS-TBSの取材を受けました" /><published>2026-02-25T00:00:00+00:00</published><updated>2026-02-25T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2026/02/blog-post-33</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2026/02/blog-post-33/"><![CDATA[<h2 id="bs-tbsの報道1930のインタビューを受けました">BS-TBSの報道1930のインタビューを受けました。</h2>
+
+<ul>
+  <li>2026年2月26日(木) 19:30〜</li>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Inequality" /><category term="Macroeconomics" /><summary type="html"><![CDATA[BS-TBSの報道1930のインタビューを受けました。]]></summary></entry><entry><title type="html">HPを更新</title><link href="https://tomoakiyamada.github.io/posts/2026/01/blog-post-32/" rel="alternate" type="text/html" title="HPを更新" /><published>2026-01-07T00:00:00+00:00</published><updated>2026-01-07T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2026/01/blog-post-32</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2026/01/blog-post-32/"><![CDATA[<h2 id="hpを更新">HPを更新</h2>
 
 <p>これまで<a href="https://hugoblox.com/">HugoBlox</a>を使ってHPを作成していたのですが、<a href="https://gohugo.io/">Hugo</a>がバージョンアップするタイミングで動かなくなったり書き直しが必要になるトラブルが頻繁にあったので、<a href="https://jekyllrb-ja.github.io/">Jekyll</a>の<a href="https://github.com/academicpages/academicpages.github.io">academigpages</a>に移行しました。</p>
 
 <p>コンテンツは基本的に同じですが、リンク切れになっている箇所があるかもしれません。完全に同じ構成にするのは難しいので（特に、ポスト）、これは仕方がないですね。</p>
 
-<p>気が向いたら（隙間時間があったら）、Jekyllとacademicpageの使い方をメモにまとめて公開するかも。</p>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Jekyll" /><category term="Blog" /><summary type="html"><![CDATA[HPを更新]]></summary></entry><entry><title type="html">日本経済新聞にコメントが掲載されました</title><link href="http://localhost:4000/posts/2026/01/blog-post-31/" rel="alternate" type="text/html" title="日本経済新聞にコメントが掲載されました" /><published>2026-01-04T00:00:00+00:00</published><updated>2026-01-04T00:00:00+00:00</updated><id>http://localhost:4000/posts/2026/01/blog-post-31</id><content type="html" xml:base="http://localhost:4000/posts/2026/01/blog-post-31/"><![CDATA[<h2 id="日本経済新聞にコメントが掲載されました">日本経済新聞にコメントが掲載されました</h2>
+<p>気が向いたら（隙間時間があったら）、Jekyllとacademicpageの使い方をメモにまとめて公開するかも。</p>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Jekyll" /><category term="Blog" /><summary type="html"><![CDATA[HPを更新]]></summary></entry><entry><title type="html">日本経済新聞にコメントが掲載されました</title><link href="https://tomoakiyamada.github.io/posts/2026/01/blog-post-31/" rel="alternate" type="text/html" title="日本経済新聞にコメントが掲載されました" /><published>2026-01-04T00:00:00+00:00</published><updated>2026-01-04T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2026/01/blog-post-31</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2026/01/blog-post-31/"><![CDATA[<h2 id="日本経済新聞にコメントが掲載されました">日本経済新聞にコメントが掲載されました</h2>
 
 <ul>
   <li>1月4日付けの朝刊</li>
   <li>1月3日付けの電子版</li>
-</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Inequality" /><category term="Macroeconomics" /><summary type="html"><![CDATA[日本経済新聞にコメントが掲載されました]]></summary></entry><entry><title type="html">NHKから国民生活基礎調査に関するインタビューを受けました</title><link href="http://localhost:4000/posts/2025/08/blog-post-30/" rel="alternate" type="text/html" title="NHKから国民生活基礎調査に関するインタビューを受けました" /><published>2025-08-22T00:00:00+00:00</published><updated>2025-08-22T00:00:00+00:00</updated><id>http://localhost:4000/posts/2025/08/blog-post-30</id><content type="html" xml:base="http://localhost:4000/posts/2025/08/blog-post-30/"><![CDATA[<h2 id="nhkで国民生活基礎調査に関するインタビューを受けました">NHKで国民生活基礎調査に関するインタビューを受けました。</h2>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Inequality" /><category term="Macroeconomics" /><summary type="html"><![CDATA[日本経済新聞にコメントが掲載されました]]></summary></entry><entry><title type="html">NHKから国民生活基礎調査に関するインタビューを受けました</title><link href="https://tomoakiyamada.github.io/posts/2025/08/blog-post-30/" rel="alternate" type="text/html" title="NHKから国民生活基礎調査に関するインタビューを受けました" /><published>2025-08-22T00:00:00+00:00</published><updated>2025-08-22T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2025/08/blog-post-30</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2025/08/blog-post-30/"><![CDATA[<h2 id="nhkで国民生活基礎調査に関するインタビューを受けました">NHKで国民生活基礎調査に関するインタビューを受けました。</h2>
 
 <ul>
   <li>19:00〜：NHKニュース7</li>
   <li>21:00〜：ニュースウオッチ9</li>
-</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Inequality" /><category term="Macroeconomics" /><summary type="html"><![CDATA[NHKで国民生活基礎調査に関するインタビューを受けました。]]></summary></entry><entry><title type="html">「マクロ経済学で見る格差」</title><link href="http://localhost:4000/posts/2025/02/blog-post-29/" rel="alternate" type="text/html" title="「マクロ経済学で見る格差」" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-17T00:00:00+00:00</updated><id>http://localhost:4000/posts/2025/02/blog-post-29</id><content type="html" xml:base="http://localhost:4000/posts/2025/02/blog-post-29/"><![CDATA[<h2 id="日本経済新聞にて連載が始まります">日本経済新聞にて連載が始まります</h2>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Inequality" /><category term="Macroeconomics" /><summary type="html"><![CDATA[NHKで国民生活基礎調査に関するインタビューを受けました。]]></summary></entry><entry><title type="html">「マクロ経済学で見る格差」</title><link href="https://tomoakiyamada.github.io/posts/2025/02/blog-post-29/" rel="alternate" type="text/html" title="「マクロ経済学で見る格差」" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-17T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2025/02/blog-post-29</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2025/02/blog-post-29/"><![CDATA[<h2 id="日本経済新聞にて連載が始まります">日本経済新聞にて連載が始まります</h2>
 
 <ul>
   <li>2025年2月17日から日本経済新聞「やさしい経済学」にて「マクロ経済学で見る格差」というタイトルで連載記事が掲載されます。</li>
   <li>全8回です。</li>
-</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Inequality" /><category term="Macroeconomics" /><summary type="html"><![CDATA[日本経済新聞にて連載が始まります]]></summary></entry><entry><title type="html">Note TakingとPKMアプリ</title><link href="http://localhost:4000/posts/2025/01/blog-post-28/" rel="alternate" type="text/html" title="Note TakingとPKMアプリ" /><published>2025-01-05T00:00:00+00:00</published><updated>2025-01-05T00:00:00+00:00</updated><id>http://localhost:4000/posts/2025/01/blog-post-28</id><content type="html" xml:base="http://localhost:4000/posts/2025/01/blog-post-28/"><![CDATA[<h2 id="capacities">Capacities</h2>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Inequality" /><category term="Macroeconomics" /><summary type="html"><![CDATA[日本経済新聞にて連載が始まります]]></summary></entry><entry><title type="html">Note TakingとPKMアプリ</title><link href="https://tomoakiyamada.github.io/posts/2025/01/blog-post-28/" rel="alternate" type="text/html" title="Note TakingとPKMアプリ" /><published>2025-01-05T00:00:00+00:00</published><updated>2025-01-05T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2025/01/blog-post-28</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2025/01/blog-post-28/"><![CDATA[<h2 id="capacities">Capacities</h2>
 
 <p><a href="https://capacities.io/">公式HP</a></p>
 
@@ -68,10 +72,10 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。</p>
 小説とか脚本を書く人のアイディアをまとめるノートとしても使えそう。</p>
 
 <p>自分の場合、KJ法を使わない上、自分が求めているノートアプリの使用用途とかなり違ったのでアンインストール。
-でも、アプリのアイディアとしては他のメモアプリと差別化ができていて面白いと思います。</p>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Productivity" /><category term="App" /><category term="Capacities" /><category term="Tana" /><category term="Heptabase" /><summary type="html"><![CDATA[Capacities]]></summary></entry><entry><title type="html">FFJ-Banque de France Workshop</title><link href="http://localhost:4000/posts/2024/11/blog-post-26/" rel="alternate" type="text/html" title="FFJ-Banque de France Workshop" /><published>2024-12-02T00:00:00+00:00</published><updated>2024-12-02T00:00:00+00:00</updated><id>http://localhost:4000/posts/2024/11/blog-post-27</id><content type="html" xml:base="http://localhost:4000/posts/2024/11/blog-post-26/"><![CDATA[<h2 id="ffj-banque-de-france-workshop">FFJ-Banque de France Workshop</h2>
+でも、アプリのアイディアとしては他のメモアプリと差別化ができていて面白いと思います。</p>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Productivity" /><category term="App" /><category term="Capacities" /><category term="Tana" /><category term="Heptabase" /><summary type="html"><![CDATA[Capacities]]></summary></entry><entry><title type="html">FFJ-Banque de France Workshop</title><link href="https://tomoakiyamada.github.io/posts/2024/11/blog-post-26/" rel="alternate" type="text/html" title="FFJ-Banque de France Workshop" /><published>2024-12-02T00:00:00+00:00</published><updated>2024-12-02T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2024/11/blog-post-27</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2024/11/blog-post-26/"><![CDATA[<h2 id="ffj-banque-de-france-workshop">FFJ-Banque de France Workshop</h2>
 
 <p>12月2日にCIGS(キヤノングローバル戦略研究所)で開催されたFFJ-Banque de France Workshopにて研究報告を行いました。
-プログラムは<a href="http://ffj.ehess.fr/upload/Actualites/Events/2024/02-12-2024_Programme_Whole%20day_web.pdf">こちら</a>から確認できます。</p>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Labor Share" /><category term="Population" /><category term="SNA" /><summary type="html"><![CDATA[FFJ-Banque de France Workshop]]></summary></entry><entry><title type="html">大学院の指導教員について</title><link href="http://localhost:4000/posts/2024/11/blog-post-26/" rel="alternate" type="text/html" title="大学院の指導教員について" /><published>2024-11-19T00:00:00+00:00</published><updated>2024-11-19T00:00:00+00:00</updated><id>http://localhost:4000/posts/2024/11/blog-post-26</id><content type="html" xml:base="http://localhost:4000/posts/2024/11/blog-post-26/"><![CDATA[<h2 id="大学院で私を指導教員に選びたい人は必ず以下を読んでください">大学院で私を指導教員に選びたい人は必ず以下を読んでください</h2>
+プログラムは<a href="http://ffj.ehess.fr/upload/Actualites/Events/2024/02-12-2024_Programme_Whole%20day_web.pdf">こちら</a>から確認できます。</p>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Labor Share" /><category term="Population" /><category term="SNA" /><summary type="html"><![CDATA[FFJ-Banque de France Workshop]]></summary></entry><entry><title type="html">大学院の指導教員について</title><link href="https://tomoakiyamada.github.io/posts/2024/11/blog-post-26/" rel="alternate" type="text/html" title="大学院の指導教員について" /><published>2024-11-19T00:00:00+00:00</published><updated>2024-11-19T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2024/11/blog-post-26</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2024/11/blog-post-26/"><![CDATA[<h2 id="大学院で私を指導教員に選びたい人は必ず以下を読んでください">大学院で私を指導教員に選びたい人は必ず以下を読んでください</h2>
 
 <ul>
   <li>
@@ -92,13 +96,13 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。</p>
     <p>実証分野に関心がある学生は、必ず実証研究を行っている人を指導教員に選びましょう。</p>
   </li>
   <li>動学的意思決定モデルを用いた構造推定については、内容次第で指導可能ですが、その場合は例えばFrench (2005) “Labour Supply and Retirement,” Review of Economic Studies, Vol.72, 395-427などに目を通して、自分が関心がある研究対象・アプローチとフィットしていることをきちんと確認してください。</li>
-</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Graduate school" /><summary type="html"><![CDATA[大学院で私を指導教員に選びたい人は必ず以下を読んでください]]></summary></entry><entry><title type="html">我々の研究がWSJ内のBarronsの記事で引用されました</title><link href="http://localhost:4000/posts/2024/10/blog-post-25/" rel="alternate" type="text/html" title="我々の研究がWSJ内のBarronsの記事で引用されました" /><published>2024-10-06T00:00:00+00:00</published><updated>2024-10-06T00:00:00+00:00</updated><id>http://localhost:4000/posts/2024/10/blog-post-25</id><content type="html" xml:base="http://localhost:4000/posts/2024/10/blog-post-25/"><![CDATA[<h2 id="引用記事">引用記事</h2>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Graduate school" /><summary type="html"><![CDATA[大学院で私を指導教員に選びたい人は必ず以下を読んでください]]></summary></entry><entry><title type="html">我々の研究がWSJ内のBarronsの記事で引用されました</title><link href="https://tomoakiyamada.github.io/posts/2024/10/blog-post-25/" rel="alternate" type="text/html" title="我々の研究がWSJ内のBarronsの記事で引用されました" /><published>2024-10-06T00:00:00+00:00</published><updated>2024-10-06T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2024/10/blog-post-25</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2024/10/blog-post-25/"><![CDATA[<h2 id="引用記事">引用記事</h2>
 
 <ul>
   <li>日本における少子高齢化と経済格差に関する我々の研究が、Wall Street Journal内の記事で引用されました。</li>
   <li>Migle Petrauskaite氏とErwin R. Tiongson氏によるBarron’sの記事の中です。</li>
   <li>https://www.barrons.com/articles/trade-aging-demographic-workforce-jobs-8b8b6801</li>
-</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Population aging" /><category term="Japan" /><summary type="html"><![CDATA[引用記事]]></summary></entry><entry><title type="html">数値計算初心者にPythonよりJuliaをお勧めする理由</title><link href="http://localhost:4000/posts/2024/05/blog-post-24/" rel="alternate" type="text/html" title="数値計算初心者にPythonよりJuliaをお勧めする理由" /><published>2024-05-24T00:00:00+00:00</published><updated>2024-05-24T00:00:00+00:00</updated><id>http://localhost:4000/posts/2024/05/blog-post-24</id><content type="html" xml:base="http://localhost:4000/posts/2024/05/blog-post-24/"><![CDATA[<h2 id="juliaの長所">Juliaの長所</h2>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Population aging" /><category term="Japan" /><summary type="html"><![CDATA[引用記事]]></summary></entry><entry><title type="html">数値計算初心者にPythonよりJuliaをお勧めする理由</title><link href="https://tomoakiyamada.github.io/posts/2024/05/blog-post-24/" rel="alternate" type="text/html" title="数値計算初心者にPythonよりJuliaをお勧めする理由" /><published>2024-05-24T00:00:00+00:00</published><updated>2024-05-24T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2024/05/blog-post-24</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2024/05/blog-post-24/"><![CDATA[<h2 id="juliaの長所">Juliaの長所</h2>
 
 <ul>
   <li><code class="language-plaintext highlighter-rouge">math.fabs(x)</code>より<code class="language-plaintext highlighter-rouge">abs(x)</code>の方がわかりやすい。
@@ -149,64 +153,4 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。</p>
   </li>
   <li>本格的に計算速度が必要な大きなプロジェクトに取り組むようになったら、結局は並列処理だとか色々と”追加的な勉強”をしないといけなくなる。</li>
   <li>そのレベルに達したら、新しい言語を学ぶ追加的コストとか、スーパーコンピューターを使う金銭的コストなど、諸々を計算できるだけの知識も蓄えられているはず。その際に、数値計算の学習のスタートがJuliaだったかPythonだったかなんて、ほとんど誤差レベルの違いになっていると思う。</li>
-</ol>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Julia" /><category term="Python" /><summary type="html"><![CDATA[Juliaの長所]]></summary></entry><entry><title type="html">番外編：仕事場環境を考える</title><link href="http://localhost:4000/posts/2024/05/blog-post-23/" rel="alternate" type="text/html" title="番外編：仕事場環境を考える" /><published>2024-05-03T00:00:00+00:00</published><updated>2024-05-03T00:00:00+00:00</updated><id>http://localhost:4000/posts/2024/05/blog-post-23</id><content type="html" xml:base="http://localhost:4000/posts/2024/05/blog-post-23/"><![CDATA[<h2 id="仕事場環境にこだわる">仕事場環境にこだわる</h2>
-
-<p>生産性を高めようとするなら、職場環境づくりは大事です。誰もが書斎や自分の部屋をもてるわけではないですが、ノートパソコン一台で長時間仕事をするのはなかなかつらいです。</p>
-
-<p>コロナ禍の頃に自室を職場に魔改造する系の動画がいっぱいYoutubeにあがっていました。今も色々とあるので、視聴すると参考になると思います。おしゃれな仕事場はそれだけでやる気があがるというものです。</p>
-
-<h3 id="大型モニターアーム">大型モニター+アーム</h3>
-
-<p>モニターサイズは生産性に直結します。もし職場で小さいモニターのラップトップPCをずっと使っている人がいたら、是非、27インチ以上の外付けモニターにつなげることをお勧めします。デュアルモニターであれば24インチを2枚もあり。モニターはピンキリですが、オフィス仕事用途に限定するのであればそこまで高価なものは必要ないです（もちろんゲーム用途と映像系は別）。ただ、あまりに古くて解像度が低いと画面の使える領域が狭くて結局仕事がしにくいままなので注意しましょう。</p>
-
-<ul>
-  <li><u>[Studio Display](https://www.apple.com/jp/displays/)</u>：超高額なので誰にでもお勧めとかではないですが、以前RetinaディスプレイのMacBook Proをモニターにつないでいたらチラツキがあってストレスが溜まったので、Apple製品同士ならさすがに大丈夫だろうと購入しました。もちろん相性問題はなし。ただ、値段が値段なので他に良いものはいくらでもあるはず。</li>
-</ul>
-
-<p>外付けモニターを購入した際、一緒にモニターアームの購入をオススメします。第一に、モニターの下を広く使えるので机の有効活用につながる。第二に、高さや角度の微調整がしやすい。個人的な話になりますが、ずっとノートPCを見るために斜め下を向いていたせいで、頚椎ヘルニアになった経験があります。いまでも右手とかがしびれる事があるので、首は本当に大事にしたほうが良いです！</p>
-
-<ul>
-  <li><u>[エルゴトロン](https://www.ergotron.com/ja-jp/)</u>：頑丈であればなんでも良いのかもしれませんが、定番のモニター用アーム。</li>
-</ul>
-
-<h3 id="椅子机">椅子・机</h3>
-
-<p>予算に余裕があるなら椅子にもこだわりましょう。腰も本当に(以下略</p>
-
-<p>椅子について語れるほど色々試したわけではないのですが、ゲーミングなんたら系は値段のわりにクオリティが高いものが多い印象です。高い椅子って本革とかデザインとか、仕事の生産性と関係なさそうなところで高額になっていくので、それより長時間快適にゲームをするのに特化して設計された椅子のほうが、長時間仕事には向いているんじゃないかなと思います。</p>
-
-<ul>
-  <li><u>[AK Racing](https://www.akracing.jp/)</u>：ヤクルトファンなので。</li>
-</ul>
-
-<p>そもそも、ずっと座りっぱなしはよくないので自分は昇降式の机でアップダウンさせてます。</p>
-
-<ul>
-  <li><u>[Flexispot](https://www.flexispot.jp/)</u>：研究室で使用。</li>
-  <li><u>[IKEA ベカント](https://www.ikea.com/jp/ja/p/bekant-desk-sit-stand-black-stained-ash-veneer-black-s49281819/)</u>：自宅で使用。かなり広いです。ただモニターアームを使うと、キーボードを叩いているときにモニターが少し揺れます。</li>
-</ul>
-
-<h3 id="キーボード">キーボード</h3>
-
-<p>高いものは本当に高いのですが、ここもお金をかけるべき場所の一つかと。腱鞘炎予防。</p>
-
-<p>適度な重さの打鍵感とキーボードの心地よいカチャカチャ音は仕事の気持ちよさにつながります（ややマニアック？）。とくに、ノートパソコンでずっと仕事をしている人は、自宅やオフィスでは外付けキーボードを使うと捗るかと。</p>
-
-<ul>
-  <li>定番の<u>[REAL FORCE](https://www.realforce.co.jp/products/R3HG21/)</u>：Mac版は選択肢が限られるのが残念。Windowsを使っていたときは<u>[Razer](https://www.razer.com/jp-jp)</u>を愛用していたのですが、あのカチャカチャ感が好きだったのでMac版も出ないかな。</li>
-  <li><u>[HHKB](https://happyhackingkb.com/jp/)</u>も大人気ですが、自分の手には小さすぎてあまり使わなくなりました。見た目と打鍵感は好きなんですが。</li>
-</ul>
-
-<p>椅子と同様に、ゲーミングキーボードとマウスは侮れないです。</p>
-
-<h3 id="マウス">マウス</h3>
-
-<ul>
-  <li><u>[Logicool MX Master 3S](https://www.logicool.co.jp/ja-jp/products/mice/mx-master-3s.910-006567.html)</u>：細かい設定が出来て、MacのLaunchpad、Mission Control、仮想デスクトップの切り替えもすべて手元で操作可能なのがありがたい。サイズも自分にはちょうどよいけど、女性には大きいかも。</li>
-</ul>
-
-<p>ちなみに、マウスパッドは120cm位ある大きいものを使っています。</p>
-
-<h3 id="アームレスト">アームレスト</h3>
-
-<p>いい加減しつこいですが、手首を傷めないためになにか置いたほうが良いです。</p>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Keyboard" /><category term="Productivity" /><category term="Monitor" /><category term="Mouse" /><category term="Blog" /><summary type="html"><![CDATA[仕事場環境にこだわる]]></summary></entry></feed>
+</ol>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Julia" /><category term="Python" /><summary type="html"><![CDATA[Juliaの長所]]></summary></entry></feed>
