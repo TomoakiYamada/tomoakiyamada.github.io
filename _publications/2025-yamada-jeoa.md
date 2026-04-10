@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomic and Fiscal Implications of Changes in the Labor Share under Population Aging in Japan"
+title: "Macroeconomic and Fiscal Implications of Changes in the Labor Share under Population Aging in Japan [Open Acess]"
 collection: publications
 permalink: /publication/2025-yamada-jeoa
 date: 2025-12-03

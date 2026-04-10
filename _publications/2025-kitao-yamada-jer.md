@@ -1,5 +1,5 @@
 ---
-title: "Earnings, Income, and Wealth Inequality in Japan: A Long‑term Perspective, 1984–2019"
+title: "Earnings, Income, and Wealth Inequality in Japan: A Long‑term Perspective, 1984–2019 [Open Acess]"
 collection: publications
 permalink: /publication/2025-kitao-yamada-jer
 date: 2025-04-09

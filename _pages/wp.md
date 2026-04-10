@@ -9,15 +9,12 @@ author_profile: true
 
 1. Imrohoroglu, Selahattin and Tomoaki Yamada (2026): Alternative Population Projections and Fiscal Sustainability in the U.S. and Japan, Work in Progress.
 
-1. Kitao, Sagiri and Tomoaki Yamada (2026): Survey of Demographics, Family and
-Fiscal Sustainability in Japan: Macroeconomic Approaches, Coming Soon.
-
-1. Kitao, Sagiri, Michio Suzuki and Tomoaki Yamada (2025): [Nonlinear Earnings Dynamics and Inequality over the Life Cycle: Evidence from Japanese Municipal Tax Records](https://www.rieti.go.jp/en/publications/summary/25080016.html), RIETI Discussion Paper Series, 25-E-081.
+2. Kitao, Sagiri, Michio Suzuki and Tomoaki Yamada (2025): [Nonlinear Earnings Dynamics and Inequality over the Life Cycle: Evidence from Japanese Municipal Tax Records](https://www.rieti.go.jp/en/publications/summary/25080016.html), RIETI Discussion Paper Series, 25-E-081.
 [🔗 RIETI DP](https://www.rieti.go.jp/jp/publications/dp/25e081.pdf), [🔗 CREPE DP](https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP174.pdf), [🔗 TUPD DP](https://tohoku.repo.nii.ac.jp/records/2006309)
 
 1. Kitao, Sagiri, Michio Suzuki and Tomoaki Yamada (2025): [Earnings Inequality Analysis Using Administrative Tax Data](https://www.rieti.go.jp/en/publications/summary/25090002.html), RIETI Discussion Paper Series, 25-J-020. [🔗 RIETI DP](https://www.rieti.go.jp/jp/publications/dp/25j020.pdf), [🔗 CREPE](https://www.crepe.e.u-tokyo.ac.jp/results/2025/CREPEDP175.pdf), Japanese.
 
-1. Tomoaki Yamada (2024): Exploring the Relationship Between Population Ageing and Labour Share.
+2. Tomoaki Yamada (2024): Exploring the Relationship Between Population Ageing and Labour Share.
 [🔗 Slide](Yamada_FFJ-Banque_de_France_2024), [🔗 Program](http://ffj.ehess.fr/upload/Actualites/Events/2024/02-12-2024_Programme_Whole%20day_web.pdf)
 
 1. Kitao, Sagiri, and Tomoaki Yamada (2024): [Inequality Dynamics in Japan, 1981-2021](https://www.esri.cao.go.jp/en/esri/archive/e_dis/2024/e_dis392-e.html), ESRI Discussion Paper Series, No. 392.
