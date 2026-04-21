@@ -2,9 +2,9 @@
 title: "経済学B"
 collection: teaching
 type: "秋学期"
-permalink: /teaching/2025-teaching-economics-b
+permalink: /teaching/2026-teaching-economics-b
 venue: "メディア授業"
-date: 2025-04-02
+date: 2026-04-08
 location: "Tokyo, Japan"
 ---
 
@@ -15,7 +15,7 @@ location: "Tokyo, Japan"
 - 経済学Bはすべてオンライン講義です。
 - 経済学Bの講義動画配信は9月20日頃からスタート予定です。
   - 講義資料も同時期に公開します。
-- 2025年度の講義関連資料・情報はすべて[**Oh-o!Meiji**](https://oh-o2.meiji.ac.jp/portal/index)経由で公開します。
+- 2026年度の講義関連資料・情報はすべて[**Oh-o!Meiji**](https://oh-o2.meiji.ac.jp/portal/index)経由で公開します。
 
 ## 教科書
 

@@ -2,7 +2,7 @@
 title: "過去の様々な講義"
 collection: teaching
 type: "出張講義・オープンキャンパスなど"
-permalink: /teaching/2025-teaching-misc
+permalink: /teaching/2021-teaching-misc
 venue: "明治大学"
 date: 2021-04-01
 location: "Tokyo, Japan"

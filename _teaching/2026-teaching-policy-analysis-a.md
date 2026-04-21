@@ -2,9 +2,9 @@
 title: "経済政策論A"
 collection: teaching
 type: "春学期"
-permalink: /teaching/2025-teaching-policy-analysis-a
-venue: "月曜日：13:30-15:10@1114教室"
-date: 2025-04-04
+permalink: /teaching/2026-teaching-policy-analysis-a
+venue: "メディア講義"
+date: 2026-04-10
 location: "Tokyo, Japan"
 ---
 

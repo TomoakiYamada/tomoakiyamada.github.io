@@ -2,7 +2,7 @@
 title: "経済政策論特論"
 collection: teaching
 type: "通年（大学院）"
-permalink: /teaching/2025-teaching-advanced-policy-analysis
+permalink: /teaching/2022-teaching-advanced-policy-analysis
 venue: "9:00-10:40"
 date: 2022-04-04
 location: "Tokyo, Japan"

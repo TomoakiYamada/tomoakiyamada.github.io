@@ -2,9 +2,9 @@
 title: "商学専門演習"
 collection: teaching
 type: "通年"
-permalink: /teaching/2025-teaching-seminar
-venue: "15:10-17:00（月曜日）@駿河台, 15:10-17:00（金曜日）@和泉"
-date: 2025-04-01
+permalink: /teaching/2026-teaching-seminar
+venue: "15:10-17:00（月曜日）@駿河台"
+date: 2026-04-06
 location: "Tokyo, Japan"
 ---
 
@@ -29,8 +29,9 @@ location: "Tokyo, Japan"
 - レヴィット・グールズビー・サイヴァーソン『レヴィット ミクロ経済学 基礎編』東洋経済
 - Acemoglu, Laibson and List (2014): __Microeconomics__, Pearson
 
-## ゼミ生向け資料 (かなり古め)
+## ゼミ生向け資料
 
+- [**AIツールを活用した論文執筆**](lecture-perplexity-notebooklm.pdf)
 - [**Presentation Tips**](HowToPresentation.pdf)
 - [**Excel入門**](ExcelCSV.pdf)
 

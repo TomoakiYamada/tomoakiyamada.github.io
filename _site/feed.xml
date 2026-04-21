@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://tomoakiyamada.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tomoakiyamada.github.io/" rel="alternate" type="text/html" /><updated>2026-04-10T01:27:19+00:00</updated><id>https://tomoakiyamada.github.io/feed.xml</id><title type="html">Tomoaki Yamada</title><subtitle>Tomoaki Yamada&apos;s academic portfolio</subtitle><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><entry><title type="html">BS-TBSの取材を受けました</title><link href="https://tomoakiyamada.github.io/posts/2026/02/blog-post-33/" rel="alternate" type="text/html" title="BS-TBSの取材を受けました" /><published>2026-02-25T00:00:00+00:00</published><updated>2026-02-25T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2026/02/blog-post-33</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2026/02/blog-post-33/"><![CDATA[<h2 id="bs-tbsの報道1930のインタビューを受けました">BS-TBSの報道1930のインタビューを受けました。</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://tomoakiyamada.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tomoakiyamada.github.io/" rel="alternate" type="text/html" /><updated>2026-04-21T02:04:52+00:00</updated><id>https://tomoakiyamada.github.io/feed.xml</id><title type="html">Tomoaki Yamada</title><subtitle>Tomoaki Yamada&apos;s academic portfolio</subtitle><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><entry><title type="html">Beamer講義スライドのテンプレートをGitHubで公開</title><link href="https://tomoakiyamada.github.io/posts/2026/03/blog-post-34/" rel="alternate" type="text/html" title="Beamer講義スライドのテンプレートをGitHubで公開" /><published>2026-04-21T00:00:00+00:00</published><updated>2026-04-21T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2026/03/blog-post-34</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2026/03/blog-post-34/"><![CDATA[<h2 id="beamerで作成した講義用スライドテンプレートを公開しました">Beamerで作成した講義用スライドテンプレートを公開しました</h2>
+
+<p>自由に使ってください。</p>
+<ul>
+  <li><a href="https://github.com/TomoakiYamada">GitHub Link</a>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">beamer-lecture-slide</code></li>
+      <li><code class="language-plaintext highlighter-rouge">tikz-econ-figure</code></li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Beamer" /><category term="LaTeX" /><summary type="html"><![CDATA[Beamerで作成した講義用スライドテンプレートを公開しました]]></summary></entry><entry><title type="html">BS-TBSの取材を受けました</title><link href="https://tomoakiyamada.github.io/posts/2026/02/blog-post-33/" rel="alternate" type="text/html" title="BS-TBSの取材を受けました" /><published>2026-02-25T00:00:00+00:00</published><updated>2026-02-25T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2026/02/blog-post-33</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2026/02/blog-post-33/"><![CDATA[<h2 id="bs-tbsの報道1930のインタビューを受けました">BS-TBSの報道1930のインタビューを受けました。</h2>
 
 <ul>
   <li>2026年2月26日(木) 19:30〜</li>
@@ -102,55 +112,4 @@ iPhoneからメモ(capture)がしやすいのもいい感じ。</p>
   <li>日本における少子高齢化と経済格差に関する我々の研究が、Wall Street Journal内の記事で引用されました。</li>
   <li>Migle Petrauskaite氏とErwin R. Tiongson氏によるBarron’sの記事の中です。</li>
   <li>https://www.barrons.com/articles/trade-aging-demographic-workforce-jobs-8b8b6801</li>
-</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Population aging" /><category term="Japan" /><summary type="html"><![CDATA[引用記事]]></summary></entry><entry><title type="html">数値計算初心者にPythonよりJuliaをお勧めする理由</title><link href="https://tomoakiyamada.github.io/posts/2024/05/blog-post-24/" rel="alternate" type="text/html" title="数値計算初心者にPythonよりJuliaをお勧めする理由" /><published>2024-05-24T00:00:00+00:00</published><updated>2024-05-24T00:00:00+00:00</updated><id>https://tomoakiyamada.github.io/posts/2024/05/blog-post-24</id><content type="html" xml:base="https://tomoakiyamada.github.io/posts/2024/05/blog-post-24/"><![CDATA[<h2 id="juliaの長所">Juliaの長所</h2>
-
-<ul>
-  <li><code class="language-plaintext highlighter-rouge">math.fabs(x)</code>より<code class="language-plaintext highlighter-rouge">abs(x)</code>の方がわかりやすい。
-    <ul>
-      <li>絶対値を計算する方法。前者はPythonで後者はJulia。</li>
-    </ul>
-  </li>
-  <li>MATLAB経験者であれば、Juliaの方がより似ているので移行がしやすい。</li>
-  <li>ループが1から始まる。</li>
-  <li>計算速度が早い。
-    <ul>
-      <li>ただし、適当に書いて勝手に早くなるわけではない。</li>
-      <li>計算速度がきちんと高速になる書き方を身につける(=Juliaの仕組みを知る)必要がある。</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="pythonの強み">Pythonの強み</h2>
-
-<ol>
-  <li>数値計算分野以外の汎用性は圧倒的にPython。
-    <ul>
-      <li>JuliaでWebデザインとか(おそらく)しない。</li>
-    </ul>
-  </li>
-  <li>そのため、研究者志望以外の学生に教えるならJuliaよりPython。
-    <ul>
-      <li>あるいはお手軽さ重視でR。</li>
-      <li>ゼミ生が就職活動で「Rを使ったことがあるか」を聞かれたらしい。</li>
-    </ul>
-  </li>
-  <li>機械学習をするなら現時点ではPythonのほうが充実している。
-    <ul>
-      <li>ひょっとしたら、今後はJuliaのスピードが活かされる局面もあるのかも。</li>
-    </ul>
-  </li>
-  <li>Python人口が多いので、ネットや本屋で情報が充実していたり、IDEなども便利なものが一通り揃っている。</li>
-</ol>
-
-<h2 id="計算速度について">計算速度について</h2>
-
-<ol>
-  <li>Juliaの強みは計算速度。特にPythonでは極力ループを避けるのに対して、<strong>Juliaはコードの書き方に注意すれば</strong>気軽にループを回せる。</li>
-  <li>Juliaで高速化をさせるためには”それ用”の書き方を身につける必要がある。
-    <ul>
-      <li>関数の使い方etc。何も考えないでコードを書いて、勝手に早くなるとは限らない。</li>
-    </ul>
-  </li>
-  <li>本格的に計算速度が必要な大きなプロジェクトに取り組むようになったら、結局は並列処理だとか色々と”追加的な勉強”をしないといけなくなる。</li>
-  <li>そのレベルに達したら、新しい言語を学ぶ追加的コストとか、スーパーコンピューターを使う金銭的コストなど、諸々を計算できるだけの知識も蓄えられているはず。その際に、数値計算の学習のスタートがJuliaだったかPythonだったかなんて、ほとんど誤差レベルの違いになっていると思う。</li>
-</ol>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Julia" /><category term="Python" /><summary type="html"><![CDATA[Juliaの長所]]></summary></entry></feed>
+</ul>]]></content><author><name>Tomoaki Yamada</name><email>tyamada@meiji.ac.jp</email></author><category term="Population aging" /><category term="Japan" /><summary type="html"><![CDATA[引用記事]]></summary></entry></feed>

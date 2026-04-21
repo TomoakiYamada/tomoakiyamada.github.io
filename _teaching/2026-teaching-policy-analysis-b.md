@@ -2,9 +2,9 @@
 title: "経済政策論B"
 collection: teaching
 type: "秋学期"
-permalink: /teaching/2025-teaching-policy-analysis-b
+permalink: /teaching/2026-teaching-policy-analysis-b
 venue: "月曜日：13:30-15:10@1114教室"
-date: 2025-04-03
+date: 2026-04-09
 location: "Tokyo, Japan"
 ---
 
