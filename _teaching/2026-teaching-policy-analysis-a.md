@@ -23,3 +23,6 @@ location: "Tokyo, Japan"
 
 - [経済政策を理解する意義](lecture-slide-epa-overview.pdf)
 - [ごく手短な学説史](lecture-slide-epa-history.pdf)
+- [日本経済の概観](lecture-slide-epa-japanese-economy.pdf)
+- [資産バブル -理論と歴史-](lecture-slide-epa-bubble.pdf)
+- [マクロ経済統計](lecture-slide-epa-macro-stats.pdf)
