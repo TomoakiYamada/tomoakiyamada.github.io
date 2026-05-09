@@ -26,3 +26,5 @@ location: "Tokyo, Japan"
 - [日本経済の概観](lecture-slide-epa-japanese-economy.pdf)
 - [資産バブル -理論と歴史-](lecture-slide-epa-bubble.pdf)
 - [マクロ経済統計](lecture-slide-epa-macro-stats.pdf)
+- [消費](lecture-slide-consumption.pdf)
+- [投資](lecture-slide-investment.pdf)
