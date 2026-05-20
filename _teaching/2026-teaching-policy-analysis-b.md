@@ -17,8 +17,7 @@ location: "Tokyo, Japan"
 
 ## 拡張版シラバス
 
-To be uploaded
-
+- [Download](epa-2026-fall-syllabus.pdf)
 
 ## 講義スライド
 
