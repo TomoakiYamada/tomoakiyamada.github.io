@@ -28,3 +28,5 @@ location: "Tokyo, Japan"
 - [マクロ経済統計](lecture-slide-epa-macro-stats.pdf)
 - [消費](lecture-slide-consumption.pdf)
 - [投資](lecture-slide-investment.pdf)
+- [IS-MPモデル：前半](lecture-slide-epa-sec1-is-mp-part1.pdf)
+- [IS-MPモデル：後半](lecture-slide-epa-sec1-is-mp-part2.pdf)
