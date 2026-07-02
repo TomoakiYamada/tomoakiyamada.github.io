@@ -31,3 +31,8 @@ location: "Tokyo, Japan"
 - [IS-MPモデル：前半](lecture-slide-epa-sec1-is-mp-part1.pdf)
 - [IS-MPモデル：後半](lecture-slide-epa-sec1-is-mp-part2.pdf)
 - [日本銀行の非伝統的金融政策](lecture-slide-epa-zlb.pdf)
+- [AD-IAモデル：前半](lecture-slide-epa-sec3-ad-ia-part1.pdf)
+- [AD-IAモデル：後半](lecture-slide-epa-sec3-ad-ia-part2.pdf)
+- [物価水準の財政理論](lecture-slide-epa-ftpl.pdf)
+- [ニューケインジアンモデル入門](lecture-slide-epa-nk.pdf)
+- [HANKモデル入門](lecture-slide-epa-hank.pdf)
