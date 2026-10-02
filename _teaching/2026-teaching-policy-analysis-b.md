@@ -21,4 +21,4 @@ location: "Tokyo, Japan"
 
 ## 講義スライド
 
-To be uploaded
+- [経済成長のファクト整理](lecture-slide-epa-growth-facts.pdf)
