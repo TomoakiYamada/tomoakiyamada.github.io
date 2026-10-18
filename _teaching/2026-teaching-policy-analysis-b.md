@@ -22,3 +22,4 @@ location: "Tokyo, Japan"
 ## 講義スライド
 
 - [経済成長のファクト整理](lecture-slide-epa-growth-facts.pdf)
+- [新古典派経済成長モデル](lecture-slide-epa-solow-growth.pdf)
