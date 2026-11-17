@@ -23,3 +23,6 @@ location: "Tokyo, Japan"
 
 - [経済成長のファクト整理](lecture-slide-epa-growth-facts.pdf)
 - [新古典派経済成長モデル](lecture-slide-epa-solow-growth.pdf)
+- [内生的経済成長の基礎：AKモデル](lecture-slide-epa-ak-growth.pdf)
+- [内生的成長理論の広がり：Romerモデルと日本の成長政策](lecture-slide-epa-romer-growth-policy.pdf)
+- [人的資本・教育の経済学と経済政策](lecture-slide-epa-human-capital.pdf)
